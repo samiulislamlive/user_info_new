@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707231589491",
+    "project_id": "informationsaving-d3c72",
+    "storage_bucket": "informationsaving-d3c72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707231589491:android:c480857141dc52c702b606",
+        "android_client_info": {
+          "package_name": "com.example.userinfosaving"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707231589491-81sh2ik48i6j03asjtjvqe34abo225db.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMD2Kxdg61DPI1vyzwIh0cVYz7OC5ZhSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707231589491-81sh2ik48i6j03asjtjvqe34abo225db.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
